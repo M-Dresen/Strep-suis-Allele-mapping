@@ -1,4 +1,4 @@
-Read.me R script for Streptococcus suis allele mapping 
+Read.me file - R script for Streptococcus suis allele mapping 
 
 Credits:
 R: Core Team R. R: A language and environment for statistical computing [Software]. Vienna, Austria: R Foundation for Statistical Computing. Retrieved from https://www.R-project.org/; 2018.
